@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "nomos",
+  "versions": [
+    {
+      "commit": "f7008a065072d11088878e2f499776a5ae4b5c95",
+      "tag": "main",
+      "parsed_at": "2026-10-01T09:04:09.048396+00:00"
+    }
+  ]
+}
