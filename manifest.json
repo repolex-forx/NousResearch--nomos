@@ -178,7 +178,9 @@
           "githubUrl": "https://github.com/Textualize/rich",
           "source": "build_file:requirements.txt"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/f7008a065072d11088878e2f499776a5ae4b5c95/chunk-001.nq.gz",
+      "dep": "dep/f7008a065072d11088878e2f499776a5ae4b5c95.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
