@@ -120,6 +120,64 @@
       ],
       "ast": [
         "aggregate/ast/f7008a065072d11088878e2f499776a5ae4b5c95/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/f7008a065072d11088878e2f499776a5ae4b5c95.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "openai",
+          "ecosystem": "PYPI",
+          "version": "3.22.1",
+          "githubOrg": "openai",
+          "githubRepo": "openai-python",
+          "githubCommit": "841d9297aed9230c29645a446b489ac4e8ccfc5a",
+          "githubTag": "v3.22.1",
+          "githubUrl": "https://github.com/openai/openai-python",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "fire",
+          "ecosystem": "PYPI",
+          "version": "0.7.1",
+          "githubOrg": "google",
+          "githubRepo": "python-fire",
+          "githubCommit": "8ea2f631e6dc904f69ec59f645fa81eb0a3c2b8e",
+          "githubTag": "v0.7.1",
+          "githubUrl": "https://github.com/google/python-fire",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "tenacity",
+          "ecosystem": "PYPI",
+          "version": "9.1.4",
+          "githubOrg": "jd",
+          "githubRepo": "tenacity",
+          "githubCommit": "d4e868d6b8368c00b5a1fad54de36c2c8c3a0fb3",
+          "githubTag": "9.1.4",
+          "githubUrl": "https://github.com/jd/tenacity",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.9.5",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubCommit": "9904684d353f8d806755918533487b78138f7c08",
+          "githubTag": "0.9.5",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "rich",
+          "ecosystem": "PYPI",
+          "version": "15.0.0",
+          "githubOrg": "Textualize",
+          "githubRepo": "rich",
+          "githubCommit": "6ac483cbea39cab124dfd3483bba70ffafb71050",
+          "githubTag": "v15.0.0",
+          "githubUrl": "https://github.com/Textualize/rich",
+          "source": "build_file:requirements.txt"
+        }
       ]
     }
   ],

@@ -48,10 +48,48 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/f7008a065072d11088878e2f499776a5ae4b5c95/chunk-001.nq.gz",
       "repolex:graphFileSize": 467053
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/f7008a065072d11088878e2f499776a5ae4b5c95.nq.gz",
+      "repolex:graphFileSize": 33465
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-10-01T08:56:10.285335+00:00",
   "repolex:parserVersion": "0.1.10",
-  "git:tagName": "main"
+  "git:tagName": "main",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/openai/openai-python",
+      "repolex:packageName": "openai",
+      "git:hexsha": "841d9297aed9230c29645a446b489ac4e8ccfc5a",
+      "git:tagName": "v3.22.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/google/python-fire",
+      "repolex:packageName": "fire",
+      "git:hexsha": "8ea2f631e6dc904f69ec59f645fa81eb0a3c2b8e",
+      "git:tagName": "v0.7.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/jd/tenacity",
+      "repolex:packageName": "tenacity",
+      "git:hexsha": "d4e868d6b8368c00b5a1fad54de36c2c8c3a0fb3",
+      "git:tagName": "9.1.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/encode/httpx",
+      "repolex:packageName": "httpx",
+      "git:hexsha": "9904684d353f8d806755918533487b78138f7c08",
+      "git:tagName": "0.9.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich",
+      "repolex:packageName": "rich",
+      "git:hexsha": "6ac483cbea39cab124dfd3483bba70ffafb71050",
+      "git:tagName": "v15.0.0"
+    }
+  ]
 }

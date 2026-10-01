@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/nomos/commit/f7008a065072d11088878e2f499776a5ae4b5c95",
       "git:hexsha": "f7008a065072d11088878e2f499776a5ae4b5c95",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
